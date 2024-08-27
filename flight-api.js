@@ -1,0 +1,163 @@
+{
+    title: "Flight Information";
+    data : {
+            flights: 
+            [
+                {
+                    "flight_details": {
+                        "flight_no": "#bcd45610",
+                        "flight_company": "Vistara",
+                        "boarding_time": "12:20:00",
+                        "passengers_count": "105",
+                        "flight_type": "National"
+                    },
+                    "from": {
+                        "location": "Chandigarh",
+                        "country": "India",
+                        "departure_date": "01-Aug-2024",
+                        "departure_time": "01:10:00",
+                        "weather": "Cloudy",
+                        "delay": "00:00:00"
+                    },
+                    "to": {
+                        "location": "Delhi",
+                        "country": "India",
+                        "arrival_date": "01-Aug-2024",
+                        "arrival_time": "05:10:00",
+                        "weather": "Sunny",
+                        "delay": "00:00:00"
+                    }
+                },
+                // 2nd Flight
+                {
+                    "flight_details": {
+                        "flight_no": "#bcd45660",
+                        "flight_company": "Vistara",
+                        "boarding_time": "12:20:00",
+                        "passengers_count": "105",
+                        "flight_type": "International"
+                    },
+                    "from": {
+                        "location": "Delhi",
+                        "country": "India",
+                        "departure_date": "01-Aug-2024",
+                        "departure_time": "05:08:00",
+                        "weather": "Sunny",
+                        "delay": "00:50:00"
+                    },
+                    "to": {
+                        "location": "Vancouver BC",
+                        "country": "Canada",
+                        "arrival_date": "02-Aug-2024",
+                        "arrival_time": "18:10:00",
+                        "weather": "Sunny",
+                        "delay": "00:50:00"
+                    }
+                },
+                // 3rd Flight
+                {
+                    "flight_details": {
+                        "flight_no": "#bcd45644",
+                        "flight_company": "Vistara",
+                        "boarding_time": "12:20:00",
+                        "passengers_count": "105",
+                        "flight_type": "National"
+                    },
+                    "from": {
+                        "location": "Chandigarh",
+                        "country": "India",
+                        "departure_date": "01-Aug-2024",
+                        "departure_time": "01:10:00",
+                        "weather": "Cloudy",
+                        "delay": "00:00:00"
+                    },
+                    "to": {
+                        "location": "Delhi",
+                        "country": "India",
+                        "arrival_date": "01-Aug-2024",
+                        "arrival_time": "05:10:00",
+                        "weather": "Sunny",
+                        "delay": "00:00:00"
+                    }
+                },
+                // 4th Flight
+                {
+                    "flight_details": {
+                        "flight_no": "#bcd45678",
+                        "flight_company": "Air India",
+                        "boarding_time": "09:30:00",
+                        "passengers_count": "150",
+                        "flight_type": "International"
+                    },
+                    "from": {
+                        "location": "Mumbai",
+                        "country": "India",
+                        "departure_date": "01-Aug-2024",
+                        "departure_time": "06:15:00",
+                        "weather": "Clear",
+                        "delay": "00:15:00"
+                    },
+                    "to": {
+                        "location": "Delhi",
+                        "country": "India",
+                        "arrival_date": "01-Aug-2024",
+                        "arrival_time": "08:45:00",
+                        "weather": "Sunny",
+                        "delay": "00:15:00"
+                    }
+                },
+                // 5th Flight
+                {
+                    "flight_details": {
+                        "flight_no": "#bcd45689",
+                        "flight_company": "IndiGo",
+                        "boarding_time": "11:00:00",
+                        "passengers_count": "180",
+                        "flight_type": "National"
+                    },
+                    "from": {
+                        "location": "Bengaluru",
+                        "country": "India",
+                        "departure_date": "01-Aug-2024",
+                        "departure_time": "09:20:00",
+                        "weather": "Rainy",
+                        "delay": "00:30:00"
+                    },
+                    "to": {
+                        "location": "Delhi",
+                        "country": "India",
+                        "arrival_date": "01-Aug-2024",
+                        "arrival_time": "12:00:00",
+                        "weather": "Cloudy",
+                        "delay": "00:30:00"
+                    }
+                },
+                // 6th Flight
+                {
+                    "flight_details": {
+                        "flight_no": "#bcd45700",
+                        "flight_company": "SpiceJet",
+                        "boarding_time": "15:45:00",
+                        "passengers_count": "120",
+                        "flight_type": "National"
+                    },
+                    "from": {
+                        "location": "Hyderabad",
+                        "country": "India",
+                        "departure_date": "01-Aug-2024",
+                        "departure_time": "13:20:00",
+                        "weather": "Windy",
+                        "delay": "00:10:00"
+                    },
+                    "to": {
+                        "location": "Delhi",
+                        "country": "India",
+                        "arrival_date": "01-Aug-2024",
+                        "arrival_time": "16:40:00",
+                        "weather": "Sunny",
+                        "delay": "00:10:00"
+                    }
+                }
+            ]
+    }
+}
