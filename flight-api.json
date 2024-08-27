@@ -1,7 +1,7 @@
 {
-    title: "Flight Information";
-    data : {
-            flights: 
+    "title": "Flight Information",
+    "data" : {
+            "flights": 
             [
                 {
                     "flight_details": {
