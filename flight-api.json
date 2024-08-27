@@ -28,7 +28,6 @@
                         "delay": "00:00:00"
                     }
                 },
-                // 2nd Flight
                 {
                     "flight_details": {
                         "flight_no": "#bcd45660",
@@ -54,7 +53,6 @@
                         "delay": "00:50:00"
                     }
                 },
-                // 3rd Flight
                 {
                     "flight_details": {
                         "flight_no": "#bcd45644",
@@ -80,7 +78,6 @@
                         "delay": "00:00:00"
                     }
                 },
-                // 4th Flight
                 {
                     "flight_details": {
                         "flight_no": "#bcd45678",
@@ -106,7 +103,6 @@
                         "delay": "00:15:00"
                     }
                 },
-                // 5th Flight
                 {
                     "flight_details": {
                         "flight_no": "#bcd45689",
@@ -132,7 +128,6 @@
                         "delay": "00:30:00"
                     }
                 },
-                // 6th Flight
                 {
                     "flight_details": {
                         "flight_no": "#bcd45700",
