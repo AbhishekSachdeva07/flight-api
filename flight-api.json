@@ -191,7 +191,6 @@
                     "delay": "00:05:00"
                 }
             },
-            // Additional flights arriving in Chandigarh
             {
                 "flight_details": {
                     "flight_no": "#bcd45702",
