@@ -4,144 +4,94 @@
         "flights": [
             {
                 "flight_details": {
-                    "flight_no": "#bcd45610",
-                    "flight_company": "Vistara",
-                    "boarding_time": "12:20:00",
-                    "passengers_count": "105",
+                    "tripid": "JKTR495",
+                    "flight_no": "#bcd45710",
+                    "flight_company": "GoAir",
+                    "boarding_time": "17:30:00",
+                    "passengers_count": "100",
                     "flight_type": "National"
                 },
                 "from": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Kolkata",
+                    "state": "West Bengal",
                     "country": "India",
-                    "departure_date": "2024-08-01",
-                    "departure_time": "01:10:00",
+                    "departure_date": "2024-09-11",
+                    "departure_time": "15:10:00",
+                    "weather": "Rainy",
+                    "delay": "00:20:00"
+                },
+                "to": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "arrival_date": "2024-09-11",
+                    "arrival_time": "18:00:00",
                     "weather": "Cloudy",
-                    "delay": "00:00:00"
-                },
-                "to": {
-                    "location": "Delhi",
-                    "state": "Delhi",
-                    "country": "India",
-                    "arrival_date": "2024-08-01",
-                    "arrival_time": "05:10:00",
-                    "weather": "Sunny",
-                    "delay": "00:00:00"
+                    "delay": "00:20:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45660",
-                    "flight_company": "Vistara",
-                    "boarding_time": "12:20:00",
-                    "passengers_count": "105",
-                    "flight_type": "International"
-                },
-                "from": {
-                    "location": "Delhi",
-                    "state": "Delhi",
-                    "country": "India",
-                    "departure_date": "2024-08-01",
-                    "departure_time": "05:08:00",
-                    "weather": "Sunny",
-                    "delay": "00:50:00"
-                },
-                "to": {
-                    "location": "Vancouver BC",
-                    "state": "British Columbia",
-                    "country": "Canada",
-                    "arrival_date": "2024-08-02",
-                    "arrival_time": "18:10:00",
-                    "weather": "Sunny",
-                    "delay": "00:50:00"
-                }
-            },
-            {
-                "flight_details": {
-                    "flight_no": "#bcd45644",
-                    "flight_company": "Vistara",
-                    "boarding_time": "12:20:00",
-                    "passengers_count": "105",
+                    "tripid": "JKTR496",
+                    "flight_no": "#bcd45720",
+                    "flight_company": "AirAsia",
+                    "boarding_time": "19:15:00",
+                    "passengers_count": "130",
                     "flight_type": "National"
                 },
                 "from": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
                     "country": "India",
-                    "departure_date": "2024-08-01",
-                    "departure_time": "01:10:00",
-                    "weather": "Cloudy",
-                    "delay": "00:00:00"
+                    "departure_date": "2024-09-12",
+                    "departure_time": "17:00:00",
+                    "weather": "Clear",
+                    "delay": "00:10:00"
                 },
                 "to": {
-                    "location": "Delhi",
-                    "state": "Delhi",
+                    "location": "Bangalore",
+                    "state": "Karnataka",
                     "country": "India",
-                    "arrival_date": "2024-08-01",
-                    "arrival_time": "05:10:00",
+                    "arrival_date": "2024-09-12",
+                    "arrival_time": "18:45:00",
                     "weather": "Sunny",
-                    "delay": "00:00:00"
+                    "delay": "00:10:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45678",
-                    "flight_company": "Air India",
-                    "boarding_time": "09:30:00",
+                    "tripid": "JKTR497",
+                    "flight_no": "#bcd45730",
+                    "flight_company": "IndiGo",
+                    "boarding_time": "23:00:00",
                     "passengers_count": "150",
-                    "flight_type": "International"
+                    "flight_type": "National"
                 },
                 "from": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "departure_date": "2024-09-13",
+                    "departure_time": "21:30:00",
+                    "weather": "Cloudy",
+                    "delay": "00:30:00"
+                },
+                "to": {
                     "location": "Mumbai",
                     "state": "Maharashtra",
                     "country": "India",
-                    "departure_date": "2024-08-01",
-                    "departure_time": "06:15:00",
+                    "arrival_date": "2024-09-14",
+                    "arrival_time": "00:15:00",
                     "weather": "Clear",
-                    "delay": "00:15:00"
-                },
-                "to": {
-                    "location": "Delhi",
-                    "state": "Delhi",
-                    "country": "India",
-                    "arrival_date": "2024-08-01",
-                    "arrival_time": "08:45:00",
-                    "weather": "Sunny",
-                    "delay": "00:15:00"
-                }
-            },
-            {
-                "flight_details": {
-                    "flight_no": "#bcd45689",
-                    "flight_company": "IndiGo",
-                    "boarding_time": "11:00:00",
-                    "passengers_count": "180",
-                    "flight_type": "National"
-                },
-                "from": {
-                    "location": "Bengaluru",
-                    "state": "Karnataka",
-                    "country": "India",
-                    "departure_date": "2024-08-01",
-                    "departure_time": "09:20:00",
-                    "weather": "Rainy",
-                    "delay": "00:30:00"
-                },
-                "to": {
-                    "location": "Delhi",
-                    "state": "Delhi",
-                    "country": "India",
-                    "arrival_date": "2024-08-01",
-                    "arrival_time": "12:00:00",
-                    "weather": "Cloudy",
                     "delay": "00:30:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45700",
-                    "flight_company": "SpiceJet",
-                    "boarding_time": "15:45:00",
+                    "tripid": "JKTR498",
+                    "flight_no": "#bcd45740",
+                    "flight_company": "Vistara",
+                    "boarding_time": "02:45:00",
                     "passengers_count": "120",
                     "flight_type": "National"
                 },
@@ -149,80 +99,111 @@
                     "location": "Hyderabad",
                     "state": "Telangana",
                     "country": "India",
-                    "departure_date": "2024-08-01",
-                    "departure_time": "13:20:00",
-                    "weather": "Windy",
-                    "delay": "00:10:00"
+                    "departure_date": "2024-09-14",
+                    "departure_time": "01:30:00",
+                    "weather": "Cloudy",
+                    "delay": "00:15:00"
                 },
                 "to": {
-                    "location": "Delhi",
-                    "state": "Delhi",
+                    "location": "Kochi",
+                    "state": "Kerala",
                     "country": "India",
-                    "arrival_date": "2024-08-01",
-                    "arrival_time": "16:40:00",
-                    "weather": "Sunny",
-                    "delay": "00:10:00"
+                    "arrival_date": "2024-09-14",
+                    "arrival_time": "04:15:00",
+                    "weather": "Rainy",
+                    "delay": "00:15:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45701",
-                    "flight_company": "Jet Airways",
-                    "boarding_time": "17:00:00",
-                    "passengers_count": "130",
-                    "flight_type": "International"
+                    "tripid": "JKTR499",
+                    "flight_no": "#bcd45750",
+                    "flight_company": "Air India",
+                    "boarding_time": "04:30:00",
+                    "passengers_count": "200",
+                    "flight_type": "National"
                 },
                 "from": {
+                    "location": "Jaipur",
+                    "state": "Rajasthan",
+                    "country": "India",
+                    "departure_date": "2024-09-15",
+                    "departure_time": "03:00:00",
+                    "weather": "Clear",
+                    "delay": "00:30:00"
+                },
+                "to": {
                     "location": "Delhi",
                     "state": "Delhi",
                     "country": "India",
-                    "departure_date": "2024-08-01",
-                    "departure_time": "18:00:00",
-                    "weather": "Clear",
-                    "delay": "00:05:00"
-                },
-                "to": {
-                    "location": "Paris",
-                    "state": "Ile-de-France",
-                    "country": "France",
-                    "arrival_date": "2024-08-02",
-                    "arrival_time": "05:15:00",
-                    "weather": "Clear",
-                    "delay": "00:05:00"
+                    "arrival_date": "2024-09-15",
+                    "arrival_time": "04:45:00",
+                    "weather": "Sunny",
+                    "delay": "00:30:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45702",
-                    "flight_company": "Air India",
-                    "boarding_time": "18:30:00",
-                    "passengers_count": "140",
+                    "tripid": "JKTR500",
+                    "flight_no": "#bcd45760",
+                    "flight_company": "SpiceJet",
+                    "boarding_time": "05:45:00",
+                    "passengers_count": "180",
                     "flight_type": "National"
                 },
                 "from": {
                     "location": "Delhi",
                     "state": "Delhi",
                     "country": "India",
-                    "departure_date": "2024-08-01",
-                    "departure_time": "16:00:00",
-                    "weather": "Clear",
-                    "delay": "00:10:00"
+                    "departure_date": "2024-09-16",
+                    "departure_time": "04:15:00",
+                    "weather": "Cloudy",
+                    "delay": "00:00:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Pune",
+                    "state": "Maharashtra",
                     "country": "India",
-                    "arrival_date": "2024-08-01",
-                    "arrival_time": "18:30:00",
+                    "arrival_date": "2024-09-16",
+                    "arrival_time": "06:00:00",
                     "weather": "Clear",
-                    "delay": "00:10:00"
+                    "delay": "00:00:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45703",
+                    "tripid": "JKTR501",
+                    "flight_no": "#bcd45770",
                     "flight_company": "IndiGo",
-                    "boarding_time": "20:00:00",
+                    "boarding_time": "07:30:00",
+                    "passengers_count": "150",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Bangalore",
+                    "state": "Karnataka",
+                    "country": "India",
+                    "departure_date": "2024-09-17",
+                    "departure_time": "06:00:00",
+                    "weather": "Cloudy",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "arrival_date": "2024-09-17",
+                    "arrival_time": "08:45:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR502",
+                    "flight_no": "#bcd45780",
+                    "flight_company": "Air India",
+                    "boarding_time": "09:45:00",
                     "passengers_count": "160",
                     "flight_type": "National"
                 },
@@ -230,161 +211,531 @@
                     "location": "Mumbai",
                     "state": "Maharashtra",
                     "country": "India",
-                    "departure_date": "2024-08-02",
-                    "departure_time": "18:00:00",
+                    "departure_date": "2024-09-18",
+                    "departure_time": "08:00:00",
                     "weather": "Clear",
-                    "delay": "00:05:00"
-                },
-                "to": {
-                    "location": "Chandigarh",
-                    "state": "Chandigarh",
-                    "country": "India",
-                    "arrival_date": "2024-09-07",
-                    "arrival_time": "20:00:00",
-                    "weather": "Clear",
-                    "delay": "00:05:00"
-                }
-            },
-            {
-                "flight_details": {
-                    "flight_no": "#bcd45704",
-                    "flight_company": "SpiceJet",
-                    "boarding_time": "11:00:00",
-                    "passengers_count": "125",
-                    "flight_type": "National"
-                },
-                "from": {
-                    "location": "Bengaluru",
-                    "state": "Karnataka",
-                    "country": "India",
-                    "departure_date": "2024-08-03",
-                    "departure_time": "09:00:00",
-                    "weather": "Sunny",
                     "delay": "00:00:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Chandigarh",
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
                     "country": "India",
-                    "arrival_date": "2024-09-07",
+                    "arrival_date": "2024-09-18",
                     "arrival_time": "11:00:00",
-                    "weather": "Sunny",
+                    "weather": "Clear",
                     "delay": "00:00:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45705",
-                    "flight_company": "Vistara",
-                    "boarding_time": "14:00:00",
-                    "passengers_count": "110",
+                    "tripid": "JKTR503",
+                    "flight_no": "#bcd45790",
+                    "flight_company": "GoAir",
+                    "boarding_time": "11:45:00",
+                    "passengers_count": "170",
                     "flight_type": "National"
                 },
                 "from": {
                     "location": "Delhi",
                     "state": "Delhi",
                     "country": "India",
-                    "departure_date": "2024-08-03",
-                    "departure_time": "12:00:00",
+                    "departure_date": "2024-09-19",
+                    "departure_time": "10:00:00",
                     "weather": "Cloudy",
-                    "delay": "00:05:00"
+                    "delay": "00:00:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Bangalore",
+                    "state": "Karnataka",
                     "country": "India",
-                    "arrival_date": "2024-08-03",
-                    "arrival_time": "14:00:00",
-                    "weather": "Cloudy",
-                    "delay": "00:05:00"
+                    "arrival_date": "2024-09-19",
+                    "arrival_time": "13:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45706",
-                    "flight_company": "Air India",
-                    "boarding_time": "16:00:00",
+                    "tripid": "JKTR504",
+                    "flight_no": "#bcd45800",
+                    "flight_company": "IndiGo",
+                    "boarding_time": "13:30:00",
+                    "passengers_count": "200",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Pune",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "departure_date": "2024-09-20",
+                    "departure_time": "12:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "arrival_date": "2024-09-20",
+                    "arrival_time": "14:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR505",
+                    "flight_no": "#bcd45810",
+                    "flight_company": "Vistara",
+                    "boarding_time": "15:30:00",
+                    "passengers_count": "180",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "departure_date": "2024-09-21",
+                    "departure_time": "14:00:00",
+                    "weather": "Rainy",
+                    "delay": "00:10:00"
+                },
+                "to": {
+                    "location": "Kochi",
+                    "state": "Kerala",
+                    "country": "India",
+                    "arrival_date": "2024-09-21",
+                    "arrival_time": "16:45:00",
+                    "weather": "Cloudy",
+                    "delay": "00:10:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR506",
+                    "flight_no": "#bcd45820",
+                    "flight_company": "AirAsia",
+                    "boarding_time": "17:45:00",
                     "passengers_count": "150",
                     "flight_type": "National"
                 },
                 "from": {
-                    "location": "Hyderabad",
-                    "state": "Telangana",
+                    "location": "Kolkata",
+                    "state": "West Bengal",
                     "country": "India",
-                    "departure_date": "2024-08-03",
-                    "departure_time": "14:00:00",
-                    "weather": "Sunny",
+                    "departure_date": "2024-09-22",
+                    "departure_time": "16:00:00",
+                    "weather": "Clear",
+                    "delay": "00:05:00"
+                },
+                "to": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "arrival_date": "2024-09-22",
+                    "arrival_time": "18:00:00",
+                    "weather": "Clear",
+                    "delay": "00:05:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR507",
+                    "flight_no": "#bcd45830",
+                    "flight_company": "GoAir",
+                    "boarding_time": "19:00:00",
+                    "passengers_count": "140",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Bangalore",
+                    "state": "Karnataka",
+                    "country": "India",
+                    "departure_date": "2024-09-23",
+                    "departure_time": "17:30:00",
+                    "weather": "Clear",
                     "delay": "00:00:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Hyderabad",
+                    "state": "Telangana",
                     "country": "India",
-                    "arrival_date": "2024-08-03",
-                    "arrival_time": "16:00:00",
-                    "weather": "Sunny",
+                    "arrival_date": "2024-09-23",
+                    "arrival_time": "19:30:00",
+                    "weather": "Clear",
                     "delay": "00:00:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45707",
+                    "tripid": "JKTR508",
+                    "flight_no": "#bcd45840",
                     "flight_company": "IndiGo",
-                    "boarding_time": "19:00:00",
-                    "passengers_count": "140",
+                    "boarding_time": "21:15:00",
+                    "passengers_count": "120",
                     "flight_type": "National"
                 },
                 "from": {
                     "location": "Mumbai",
                     "state": "Maharashtra",
                     "country": "India",
-                    "departure_date": "2024-08-03",
-                    "departure_time": "17:00:00",
-                    "weather": "Clear",
-                    "delay": "00:10:00"
+                    "departure_date": "2024-09-24",
+                    "departure_time": "19:45:00",
+                    "weather": "Cloudy",
+                    "delay": "00:15:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Pune",
+                    "state": "Maharashtra",
                     "country": "India",
-                    "arrival_date": "2024-08-03",
-                    "arrival_time": "19:00:00",
+                    "arrival_date": "2024-09-24",
+                    "arrival_time": "21:30:00",
                     "weather": "Clear",
-                    "delay": "00:10:00"
+                    "delay": "00:15:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45708",
-                    "flight_company": "SpiceJet",
-                    "boarding_time": "20:30:00",
-                    "passengers_count": "130",
+                    "tripid": "JKTR509",
+                    "flight_no": "#bcd45850",
+                    "flight_company": "Vistara",
+                    "boarding_time": "23:00:00",
+                    "passengers_count": "180",
                     "flight_type": "National"
                 },
                 "from": {
                     "location": "Delhi",
                     "state": "Delhi",
                     "country": "India",
-                    "departure_date": "2024-08-03",
-                    "departure_time": "18:00:00",
+                    "departure_date": "2024-09-25",
+                    "departure_time": "21:00:00",
                     "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "arrival_date": "2024-09-26",
+                    "arrival_time": "23:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR510",
+                    "flight_no": "#bcd45860",
+                    "flight_company": "GoAir",
+                    "boarding_time": "01:00:00",
+                    "passengers_count": "160",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "departure_date": "2024-09-27",
+                    "departure_time": "23:30:00",
+                    "weather": "Cloudy",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Kochi",
+                    "state": "Kerala",
+                    "country": "India",
+                    "arrival_date": "2024-09-27",
+                    "arrival_time": "03:00:00",
+                    "weather": "Rainy",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR511",
+                    "flight_no": "#bcd45870",
+                    "flight_company": "IndiGo",
+                    "boarding_time": "03:30:00",
+                    "passengers_count": "140",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Bangalore",
+                    "state": "Karnataka",
+                    "country": "India",
+                    "departure_date": "2024-09-28",
+                    "departure_time": "02:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "arrival_date": "2024-09-28",
+                    "arrival_time": "05:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR512",
+                    "flight_no": "#bcd45880",
+                    "flight_company": "Air India",
+                    "boarding_time": "05:45:00",
+                    "passengers_count": "160",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "departure_date": "2024-09-29",
+                    "departure_time": "04:15:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "arrival_date": "2024-09-29",
+                    "arrival_time": "07:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR513",
+                    "flight_no": "#bcd45890",
+                    "flight_company": "SpiceJet",
+                    "boarding_time": "07:15:00",
+                    "passengers_count": "180",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Kochi",
+                    "state": "Kerala",
+                    "country": "India",
+                    "departure_date": "2024-09-30",
+                    "departure_time": "06:00:00",
+                    "weather": "Rainy",
+                    "delay": "00:10:00"
+                },
+                "to": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "arrival_date": "2024-09-30",
+                    "arrival_time": "09:00:00",
+                    "weather": "Clear",
+                    "delay": "00:10:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR514",
+                    "flight_no": "#bcd45900",
+                    "flight_company": "Vistara",
+                    "boarding_time": "09:00:00",
+                    "passengers_count": "200",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "departure_date": "2024-09-30",
+                    "departure_time": "07:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "arrival_date": "2024-09-30",
+                    "arrival_time": "09:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR515",
+                    "flight_no": "#bcd45910",
+                    "flight_company": "AirAsia",
+                    "boarding_time": "11:00:00",
+                    "passengers_count": "150",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "departure_date": "2024-09-11",
+                    "departure_time": "10:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "arrival_date": "2024-09-11",
+                    "arrival_time": "13:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR516",
+                    "flight_no": "#bcd45920",
+                    "flight_company": "GoAir",
+                    "boarding_time": "13:15:00",
+                    "passengers_count": "120",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "departure_date": "2024-09-12",
+                    "departure_time": "12:00:00",
+                    "weather": "Cloudy",
+                    "delay": "00:10:00"
+                },
+                "to": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "arrival_date": "2024-09-12",
+                    "arrival_time": "14:00:00",
+                    "weather": "Cloudy",
+                    "delay": "00:10:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR517",
+                    "flight_no": "#bcd45930",
+                    "flight_company": "IndiGo",
+                    "boarding_time": "15:00:00",
+                    "passengers_count": "160",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Bangalore",
+                    "state": "Karnataka",
+                    "country": "India",
+                    "departure_date": "2024-09-13",
+                    "departure_time": "14:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "arrival_date": "2024-09-13",
+                    "arrival_time": "17:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR518",
+                    "flight_no": "#bcd45940",
+                    "flight_company": "Vistara",
+                    "boarding_time": "17:00:00",
+                    "passengers_count": "180",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "departure_date": "2024-09-14",
+                    "departure_time": "15:30:00",
+                    "weather": "Rainy",
                     "delay": "00:15:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
                     "country": "India",
-                    "arrival_date": "2024-08-03",
-                    "arrival_time": "20:30:00",
-                    "weather": "Clear",
+                    "arrival_date": "2024-09-14",
+                    "arrival_time": "19:00:00",
+                    "weather": "Rainy",
                     "delay": "00:15:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45709",
-                    "flight_company": "Jet Airways",
-                    "boarding_time": "07:00:00",
+                    "tripid": "JKTR519",
+                    "flight_no": "#bcd45950",
+                    "flight_company": "SpiceJet",
+                    "boarding_time": "19:30:00",
+                    "passengers_count": "140",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "departure_date": "2024-09-15",
+                    "departure_time": "18:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "arrival_date": "2024-09-15",
+                    "arrival_time": "20:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR520",
+                    "flight_no": "#bcd45960",
+                    "flight_company": "Air India",
+                    "boarding_time": "21:45:00",
+                    "passengers_count": "160",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "departure_date": "2024-09-16",
+                    "departure_time": "20:15:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "arrival_date": "2024-09-16",
+                    "arrival_time": "23:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR521",
+                    "flight_no": "#bcd45970",
+                    "flight_company": "GoAir",
+                    "boarding_time": "23:00:00",
                     "passengers_count": "120",
                     "flight_type": "National"
                 },
@@ -392,181 +743,383 @@
                     "location": "Chennai",
                     "state": "Tamil Nadu",
                     "country": "India",
-                    "departure_date": "2024-08-04",
-                    "departure_time": "05:30:00",
+                    "departure_date": "2024-09-17",
+                    "departure_time": "21:00:00",
                     "weather": "Rainy",
-                    "delay": "00:20:00"
+                    "delay": "00:10:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
-                    "country": "India",
-                    "arrival_date": "2024-08-04",
-                    "arrival_time": "07:00:00",
-                    "weather": "Rainy",
-                    "delay": "00:20:00"
-                }
-            },
-            {
-                "flight_details": {
-                    "flight_no": "#bcd45710",
-                    "flight_company": "Air India",
-                    "boarding_time": "09:30:00",
-                    "passengers_count": "100",
-                    "flight_type": "National"
-                },
-                "from": {
-                    "location": "Delhi",
-                    "state": "Delhi",
-                    "country": "India",
-                    "departure_date": "2024-08-04",
-                    "departure_time": "07:00:00",
-                    "weather": "Clear",
-                    "delay": "00:05:00"
-                },
-                "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
-                    "country": "India",
-                    "arrival_date": "2024-08-04",
-                    "arrival_time": "09:30:00",
-                    "weather": "Clear",
-                    "delay": "00:05:00"
-                }
-            },
-            {
-                "flight_details": {
-                    "flight_no": "#bcd45711",
-                    "flight_company": "Vistara",
-                    "boarding_time": "12:00:00",
-                    "passengers_count": "110",
-                    "flight_type": "National"
-                },
-                "from": {
-                    "location": "Bengaluru",
-                    "state": "Karnataka",
-                    "country": "India",
-                    "departure_date": "2024-08-04",
-                    "departure_time": "10:00:00",
-                    "weather": "Sunny",
-                    "delay": "00:00:00"
-                },
-                "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
-                    "country": "India",
-                    "arrival_date": "2024-08-04",
-                    "arrival_time": "12:00:00",
-                    "weather": "Sunny",
-                    "delay": "00:00:00"
-                }
-            },
-            {
-                "flight_details": {
-                    "flight_no": "#bcd45712",
-                    "flight_company": "SpiceJet",
-                    "boarding_time": "14:30:00",
-                    "passengers_count": "115",
-                    "flight_type": "National"
-                },
-                "from": {
                     "location": "Hyderabad",
                     "state": "Telangana",
                     "country": "India",
-                    "departure_date": "2024-08-04",
-                    "departure_time": "12:00:00",
-                    "weather": "Sunny",
-                    "delay": "00:10:00"
-                },
-                "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
-                    "country": "India",
-                    "arrival_date": "2024-08-04",
-                    "arrival_time": "14:30:00",
-                    "weather": "Sunny",
+                    "arrival_date": "2024-09-17",
+                    "arrival_time": "23:45:00",
+                    "weather": "Cloudy",
                     "delay": "00:10:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45713",
+                    "tripid": "JKTR522",
+                    "flight_no": "#bcd45980",
                     "flight_company": "IndiGo",
-                    "boarding_time": "16:00:00",
-                    "passengers_count": "140",
-                    "flight_type": "National"
-                },
-                "from": {
-                    "location": "Delhi",
-                    "state": "Delhi",
-                    "country": "India",
-                    "departure_date": "2024-08-04",
-                    "departure_time": "14:30:00",
-                    "weather": "Clear",
-                    "delay": "00:00:00"
-                },
-                "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
-                    "country": "India",
-                    "arrival_date": "2024-08-04",
-                    "arrival_time": "16:00:00",
-                    "weather": "Clear",
-                    "delay": "00:00:00"
-                }
-            },
-            {
-                "flight_details": {
-                    "flight_no": "#bcd45714",
-                    "flight_company": "Jet Airways",
-                    "boarding_time": "19:00:00",
-                    "passengers_count": "130",
+                    "boarding_time": "01:00:00",
+                    "passengers_count": "180",
                     "flight_type": "National"
                 },
                 "from": {
                     "location": "Mumbai",
                     "state": "Maharashtra",
                     "country": "India",
-                    "departure_date": "2024-08-04",
-                    "departure_time": "17:00:00",
+                    "departure_date": "2024-09-18",
+                    "departure_time": "00:30:00",
                     "weather": "Clear",
-                    "delay": "00:15:00"
+                    "delay": "00:00:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Kochi",
+                    "state": "Kerala",
                     "country": "India",
-                    "arrival_date": "2024-08-04",
-                    "arrival_time": "19:00:00",
+                    "arrival_date": "2024-09-18",
+                    "arrival_time": "03:15:00",
                     "weather": "Clear",
-                    "delay": "00:15:00"
+                    "delay": "00:00:00"
                 }
             },
             {
                 "flight_details": {
-                    "flight_no": "#bcd45715",
+                    "tripid": "JKTR523",
+                    "flight_no": "#bcd45990",
+                    "flight_company": "SpiceJet",
+                    "boarding_time": "03:30:00",
+                    "passengers_count": "140",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "departure_date": "2024-09-19",
+                    "departure_time": "02:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "arrival_date": "2024-09-19",
+                    "arrival_time": "05:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR524",
+                    "flight_no": "#bcd459a0",
                     "flight_company": "Air India",
-                    "boarding_time": "21:30:00",
-                    "passengers_count": "125",
+                    "boarding_time": "05:30:00",
+                    "passengers_count": "200",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "departure_date": "2024-09-20",
+                    "departure_time": "04:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "arrival_date": "2024-09-20",
+                    "arrival_time": "06:45:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR525",
+                    "flight_no": "#bcd459b0",
+                    "flight_company": "Vistara",
+                    "boarding_time": "07:45:00",
+                    "passengers_count": "180",
                     "flight_type": "National"
                 },
                 "from": {
                     "location": "Delhi",
                     "state": "Delhi",
                     "country": "India",
-                    "departure_date": "2024-08-04",
+                    "departure_date": "2024-09-21",
+                    "departure_time": "06:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "arrival_date": "2024-09-21",
+                    "arrival_time": "09:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR526",
+                    "flight_no": "#bcd459c0",
+                    "flight_company": "GoAir",
+                    "boarding_time": "10:00:00",
+                    "passengers_count": "120",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "departure_date": "2024-09-22",
+                    "departure_time": "08:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "arrival_date": "2024-09-22",
+                    "arrival_time": "12:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR527",
+                    "flight_no": "#bcd459d0",
+                    "flight_company": "IndiGo",
+                    "boarding_time": "12:15:00",
+                    "passengers_count": "160",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "departure_date": "2024-09-23",
+                    "departure_time": "10:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "arrival_date": "2024-09-23",
+                    "arrival_time": "13:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR528",
+                    "flight_no": "#bcd459e0",
+                    "flight_company": "SpiceJet",
+                    "boarding_time": "14:30:00",
+                    "passengers_count": "140",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "departure_date": "2024-09-24",
+                    "departure_time": "12:00:00",
+                    "weather": "Cloudy",
+                    "delay": "00:05:00"
+                },
+                "to": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "arrival_date": "2024-09-24",
+                    "arrival_time": "15:00:00",
+                    "weather": "Cloudy",
+                    "delay": "00:05:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR529",
+                    "flight_no": "#bcd459f0",
+                    "flight_company": "Air India",
+                    "boarding_time": "16:45:00",
+                    "passengers_count": "200",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "departure_date": "2024-09-25",
+                    "departure_time": "14:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "arrival_date": "2024-09-25",
+                    "arrival_time": "17:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR530",
+                    "flight_no": "#bcd459g0",
+                    "flight_company": "Vistara",
+                    "boarding_time": "19:00:00",
+                    "passengers_count": "180",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "departure_date": "2024-09-26",
+                    "departure_time": "17:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "arrival_date": "2024-09-26",
+                    "arrival_time": "21:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR531",
+                    "flight_no": "#bcd459h0",
+                    "flight_company": "GoAir",
+                    "boarding_time": "21:30:00",
+                    "passengers_count": "120",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "departure_date": "2024-09-27",
                     "departure_time": "19:00:00",
                     "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "arrival_date": "2024-09-27",
+                    "arrival_time": "22:00:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR532",
+                    "flight_no": "#bcd459i0",
+                    "flight_company": "IndiGo",
+                    "boarding_time": "23:45:00",
+                    "passengers_count": "160",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "departure_date": "2024-09-28",
+                    "departure_time": "21:15:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "arrival_date": "2024-09-28",
+                    "arrival_time": "23:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR533",
+                    "flight_no": "#bcd459j0",
+                    "flight_company": "SpiceJet",
+                    "boarding_time": "03:00:00",
+                    "passengers_count": "140",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "departure_date": "2024-09-29",
+                    "departure_time": "01:30:00",
+                    "weather": "Cloudy",
                     "delay": "00:10:00"
                 },
                 "to": {
-                    "location": "Chandigarh",
-                    "state": "Punjab",
+                    "location": "Hyderabad",
+                    "state": "Telangana",
                     "country": "India",
-                    "arrival_date": "2024-08-04",
-                    "arrival_time": "21:30:00",
-                    "weather": "Clear",
+                    "arrival_date": "2024-09-29",
+                    "arrival_time": "04:00:00",
+                    "weather": "Cloudy",
                     "delay": "00:10:00"
+                }
+            },
+            {
+                "flight_details": {
+                    "tripid": "JKTR534",
+                    "flight_no": "#bcd459k0",
+                    "flight_company": "Air India",
+                    "boarding_time": "06:15:00",
+                    "passengers_count": "200",
+                    "flight_type": "National"
+                },
+                "from": {
+                    "location": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "departure_date": "2024-09-30",
+                    "departure_time": "04:45:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
+                },
+                "to": {
+                    "location": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "arrival_date": "2024-09-30",
+                    "arrival_time": "07:30:00",
+                    "weather": "Clear",
+                    "delay": "00:00:00"
                 }
             }
         ]
