@@ -189,11 +189,11 @@
                     "delay": "00:00:00"
                 },
                 "to": {
-                    "location": "Kolkata",
-                    "state": "West Bengal",
+                    "location": "Pune",
+                    "state": "Maharashtra",
                     "country": "India",
-                    "arrival_date": "2024-09-17",
-                    "arrival_time": "08:45:00",
+                    "arrival_date": "2024-09-18",
+                    "arrival_time": "06:25:00",
                     "weather": "Clear",
                     "delay": "00:00:00"
                 }
